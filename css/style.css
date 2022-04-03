@@ -2316,6 +2316,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 		right: 0;
 		bottom: 0;
 		border-radius: 0;
+		width: 400px !important;
 	}
 	.deebo_fn_cv .closer{
 		z-index: 999;
@@ -2346,7 +2347,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 		transform: translateX(380px);
 	}
 	.deebo_fn__cv .cv__content{
-		width: 100%;
+		width: 400px !important;
 		position: relative;
 		top: auto;
 		left: auto;
@@ -2370,7 +2371,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 		flex-direction: column;
 	}
 	.section_header .right_hero_header{
-		width: 100%;
+		width: 400px !important;
 	}
 	.section_header .left_hero_header{
 		max-width: 100%;
