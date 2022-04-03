@@ -2288,9 +2288,11 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 		top: 10px;
 		left: 10px;
 		bottom: 10px;
+		width: 400px !important;
 	}
 	.deebo_fn__cv .cv__content{
-		width: calc(70vw - 40px);
+		/* width: calc(70vw - 40px); */
+		width: 400px !important;
 		right: 10px;
 		top: 10px;
 		bottom: 10px;
